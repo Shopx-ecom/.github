@@ -1,4 +1,4 @@
-# ShopX-ecom with Micro services architecture 
+# ShopX-ecom with Microservices architecture 
 
 ### Migrating monolith ([Shopx-E_commerce](https://github.com/Sameer377/Shopx_E-commerce)) to event driven microservices 
 
