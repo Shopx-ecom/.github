@@ -1,7 +1,10 @@
-# ShopX — Production-Grade E-Commerce Microservices Platform
+# ShopX-ecom with Micro services architecture 
+
+### Migrating monolith ([Shopx-E_commerce](https://github.com/Sameer377/Shopx_E-commerce)) to event driven microservices 
 
 > Built by **Sameer Bilal Shaikh**  
-> A distributed, event-driven e-commerce backend implementing enterprise-grade patterns including Saga, Circuit Breaker, gRPC, Kafka, Idempotency, and JWT Role-Based Auth.
+> Converting Monolith application into microservices based application from scratch.
+>  A distributed, event-driven e-commerce backend implementing enterprise-grade patterns including Saga, Circuit Breaker, gRPC, Kafka, Idempotency, and JWT Role-Based Auth.
 
 ---
 
