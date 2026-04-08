@@ -4,7 +4,7 @@
 
 > Built by **Sameer Bilal Shaikh**  
 > Converting Monolith application into microservices based application from scratch.
->  A distributed, event-driven e-commerce backend implementing enterprise-grade patterns including Saga, Circuit Breaker, gRPC, Kafka, Idempotency, and JWT Role-Based Auth. 
+>  A distributed, event-driven e-commerce backend implementing enterprise-grade patterns including Saga, Circuit Breaker, gRPC, Kafka, Idempotency, and JWT Role-Based Auth.  
 
 ---
 
